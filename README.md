@@ -185,6 +185,7 @@ jupyter notebook
 
 # 👨‍💻 Author
 Rubén Cuello, Data Scientist
+
 Developed as part of a Machine Learning & Data Science portfolio project.
 
 ---
